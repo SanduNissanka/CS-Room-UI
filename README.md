@@ -2,6 +2,4 @@ CS Room Studio is a popular youtube channel,as well as a video capturing organiz
 In here I used the matching colors for their business logo and create the all design objects very attractive with their photographs. 📸 
 I created this project using Figma software.
 
-Girhub: https://github.com/SanduNissanka/CS-Room-UI
-
 Figma : https://www.figma.com/proto/1GPLR9jDy0YbJEBsKc1lOq/CS-Room-Studio?node-id=27-104&t=EwHDOD4OukzpW8cj-1 
